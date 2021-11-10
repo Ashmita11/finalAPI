@@ -1,0 +1,19 @@
+Body{
+    background-image: linear-gradient(to right ,rgb(0, 102, 255) ,rgb(11, 75, 59));
+}
+#h1{
+    background-color:aqua;
+}
+#inputid{
+    margin-left: 270px;
+}
+#btn{
+    margin-left: 700px; 
+    width:100px;
+    color:blue;
+    font-weight: bold;
+}
+#myimage{
+    height: 400px;
+    width:400px;
+}
